@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberaniket101" alt="cyberaniket101" /></a> </p>
 
-- 🔭 I’m currently working on [VoiceguardAI](https://voiceguardai.tech/)
+- 🔭 I’m currently working on [VoiceguardAI](https://voiceguardai.co/)
 
 - 👨‍💻 All of my projects are available at [https://cyberaniket.live/](https://cyberaniket.live/)
 
