@@ -5,6 +5,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=cyberaniket101&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" />
   <a href="https://cyberaniket.live"><img src="https://img.shields.io/badge/Portfolio-cyberaniket.live-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.voiceguardai.com"><img src="https://img.shields.io/badge/Startup-VoiceGuardAI.com-6C3FE8?style=flat-square&logo=google-chrome&logoColor=white" /></a>
   <a href="mailto:cyberaniketcompany@gmail.com"><img src="https://img.shields.io/badge/Email-cyberaniketcompany@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -20,12 +21,14 @@ class CyberAniket:
     alias      = "CyberAniket"
     role       = "Founder @ VoiceGuardAI | AI/ML Researcher | Cybersecurity Expert"
     location   = "India 🇮🇳"
-    website    = "https://cyberaniket.live"
-    
-    current    = ["Building VoiceGuardAI — real-time deepfake audio detection"]
+
+    startup    = "https://www.voiceguardai.com"   # deepfake audio detection platform
+    portfolio  = "https://cyberaniket.live"        # projects, blogs & more
+
+    current    = ["Scaling VoiceGuardAI — real-time deepfake audio detection"]
     learning   = ["Advanced LLM fine-tuning", "Adversarial ML", "Zero-day research"]
     writing    = ["https://cyberaniket.live/blog"]
-    
+
     fun_fact   = "Skills matter, not degrees 🎯"
 ```
 
@@ -33,17 +36,44 @@ class CyberAniket:
 
 ## 🎙️ Featured Project — VoiceGuardAI
 
-<a href="https://voiceguardai.co/">
-  <img align="right" width="340" src="https://github-readme-stats.vercel.app/api/pin/?username=cyberaniket101&repo=AeroAssistAI&theme=tokyonight&hide_border=true" />
-</a>
+<div align="center">
 
-**[VoiceGuardAI](https://voiceguardai.co/)** — Real-time deepfake audio detection platform that protects individuals, journalists, and executives from voice cloning fraud.
+| | |
+|:---|:---|
+| **Live at** | 🌐 [voiceguardai.com](https://www.voiceguardai.com) |
+| **What it does** | Detects AI-generated & cloned voices in uploaded voicemails |
+| **How** | 3 proprietary models cross-validate every audio scan |
+| **Output** | Clear verdict — Human or AI-generated — with a confidence score |
+| **Cost** | Completely free, no usage limits |
 
-- 🧠 Powered by deep learning audio analysis
-- 🛡️ Detects AI-generated / cloned voices in real-time
-- 🌐 Live at [voiceguardai.co](https://voiceguardai.co/)
+</div>
 
-<br clear="right"/>
+**Under the hood — three proprietary detection engines:**
+
+```
+🔬 VG-Spectral  →  Analyses frequency & spectral patterns unique to synthetic speech
+🎵 VG-Prosody   →  Detects unnatural rhythm, pitch & intonation of cloned voices  
+🔍 VG-Artifact  →  Identifies compression artefacts left by AI voice generators
+```
+
+> Upload a suspicious voicemail → All three models cross-validate in seconds → Get your verdict.
+
+<div align="center">
+  <a href="https://www.voiceguardai.com">
+    <img src="https://img.shields.io/badge/🛡️ Try VoiceGuardAI Free-6C3FE8?style=for-the-badge" />
+  </a>
+</div>
+
+---
+
+## 🌍 My Links
+
+| Platform | URL |
+|:---|:---|
+| 🚀 Startup | [voiceguardai.com](https://www.voiceguardai.com) |
+| 🧑‍💻 Portfolio | [cyberaniket.live](https://cyberaniket.live) |
+| ✍️ Blog | [cyberaniket.live/blog](https://cyberaniket.live) |
+| 📧 Email | [cyberaniketcompany@gmail.com](mailto:cyberaniketcompany@gmail.com) |
 
 ---
 
