@@ -1,66 +1,19 @@
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aniket+Chikse;Founder+of+VoiceGuardAI+%F0%9F%8E%99%EF%B8%8F;AI+%2F+ML+%26+Cybersecurity+Researcher;Web+Developer+%7C+Hacker+%7C+Builder)](https://git.io/typing-svg)
+### 🏢 Built For
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=cyberaniket101&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" />
-  <a href="https://cyberaniket.live"><img src="https://img.shields.io/badge/Portfolio-cyberaniket.live-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.voiceguardai.com"><img src="https://img.shields.io/badge/Startup-VoiceGuardAI.com-6C3FE8?style=flat-square&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:cyberaniketcompany@gmail.com"><img src="https://img.shields.io/badge/Email-cyberaniketcompany@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
+**Banks & BFSI** • **Law Enforcement** • **Enterprises** • **Media Platforms** • **Government & Courts** • **Telecom** • **Cybersecurity**
 
-</div>
+### 💰 Pricing
 
----
-
-## 🚀 About Me
-
-```python
-class CyberAniket:
-    name       = "Aniket Chikse"
-    alias      = "CyberAniket"
-    role       = "Founder @ VoiceGuardAI | AI/ML Researcher | Cybersecurity Expert"
-    location   = "India 🇮🇳"
-
-    startup    = "https://www.voiceguardai.com"   # deepfake audio detection platform
-    portfolio  = "https://cyberaniket.live"        # projects, blogs & more
-
-    current    = ["Scaling VoiceGuardAI — real-time deepfake audio detection"]
-    learning   = ["Advanced LLM fine-tuning", "Adversarial ML", "Zero-day research"]
-    writing    = ["https://cyberaniket.live/blog"]
-
-    fun_fact   = "Skills matter, not degrees 🎯"
-```
-
----
-
-## 🎙️ Featured Project — VoiceGuardAI
+| Plan | Price | Highlights |
+|---|---|---|
+| **Basic** | Free (1st month) → $15/mo | Audio, Image & Video Detection, Email Support |
+| **Pro** | Coming Soon | 50,000 API calls/mo, Deepfake Forensics, Priority Support |
+| **Enterprise** | Custom | Unlimited API, On-Premise Deployment, Custom ML Models, 24/7 SLA |
 
 <div align="center">
-
-| | |
-|:---|:---|
-| **Live at** | 🌐 [voiceguardai.com](https://www.voiceguardai.com) |
-| **What it does** | Detects AI-generated & cloned voices in uploaded voicemails |
-| **How** | 3 proprietary models cross-validate every audio scan |
-| **Output** | Clear verdict — Human or AI-generated — with a confidence score |
-| **Cost** | Completely free, no usage limits |
-
-</div>
-
-**Under the hood — three proprietary detection engines:**
-
-```
-🔬 VG-Spectral  →  Analyses frequency & spectral patterns unique to synthetic speech
-🎵 VG-Prosody   →  Detects unnatural rhythm, pitch & intonation of cloned voices  
-🔍 VG-Artifact  →  Identifies compression artefacts left by AI voice generators
-```
-
-> Upload a suspicious voicemail → All three models cross-validate in seconds → Get your verdict.
-
-<div align="center">
-  <a href="https://www.voiceguardai.com">
-    <img src="https://img.shields.io/badge/🛡️ Try VoiceGuardAI Free-6C3FE8?style=for-the-badge" />
+  <a href="https://www.voiceguardai.com/waitlist">
+    <img src="https://img.shields.io/badge/🛡️ Get Started with VoiceGuardAI-6C3FE8?style=for-the-badge" />
   </a>
 </div>
 
@@ -69,10 +22,10 @@ class CyberAniket:
 ## 🌍 My Links
 
 | Platform | URL |
-|:---|:---|
-| 🚀 Startup | [voiceguardai.com](https://www.voiceguardai.com) |
-| 🧑‍💻 Portfolio | [cyberaniket.live](https://cyberaniket.live) |
-| ✍️ Blog | [cyberaniket.live/blog](https://cyberaniket.live) |
+|---|---|
+| 🚀 Startup | [voiceguardai.com](https://www.voiceguardai.com/) |
+| 📖 Docs | [docs.voiceguardai.co](https://docs.voiceguardai.co/) |
+| ✍️ Blog | [voiceguardai.com/blog](https://www.voiceguardai.com/blog) |
 | 📧 Email | [cyberaniketcompany@gmail.com](mailto:cyberaniketcompany@gmail.com) |
 
 ---
@@ -96,68 +49,20 @@ class CyberAniket:
 
 ## 🛠️ Tech Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
+<!-- Languages | AI / ML | Frontend | Backend & Databases | Cloud & DevOps | Design & Tools -->
+<!-- (keep your existing badge icons here) -->
 
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniketchikse)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/cyberaniket)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/cyberaniket)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/cyberaniket)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/cyberaniket)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/kalianiket999)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/cyberaniket)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=Blue)](https://www.hackerearth.com/aniket2278)
-
+  <a href="https://www.instagram.com/voiceguardai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/company/voiceguardai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/voiceguardai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+  <a href="https://www.threads.com/@voiceguardai"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /></a>
 </div>
 
----
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3FE8&height=80&section=footer" />
 </div>
