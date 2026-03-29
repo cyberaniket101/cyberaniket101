@@ -1,68 +1,75 @@
-
-### 🏢 Built For
-
-**Banks & BFSI** • **Law Enforcement** • **Enterprises** • **Media Platforms** • **Government & Courts** • **Telecom** • **Cybersecurity**
-
-### 💰 Pricing
-
-| Plan | Price | Highlights |
-|---|---|---|
-| **Basic** | Free (1st month) → $15/mo | Audio, Image & Video Detection, Email Support |
-| **Pro** | Coming Soon | 50,000 API calls/mo, Deepfake Forensics, Priority Support |
-| **Enterprise** | Custom | Unlimited API, On-Premise Deployment, Custom ML Models, 24/7 SLA |
-
 <div align="center">
-  <a href="https://www.voiceguardai.com/waitlist">
-    <img src="https://img.shields.io/badge/🛡️ Get Started with VoiceGuardAI-6C3FE8?style=for-the-badge" />
-  </a>
-</div>
 
----
+<p> <img src="https://komarev.com/ghpvc/?username=cyberaniket101&label=Profile+views&color=0e75b6&style=flat-square" alt="profile views" /> <a href="https://cyberaniket.live"><img src="https://img.shields.io/badge/Portfolio-cyberaniket.live-0e75b6?style=flat-square&logo=google-chrome&logoColor=white" /></a> <a href="https://www.voiceguardai.com"><img src="https://img.shields.io/badge/Startup-VoiceGuardAI.com-6C3FE8?style=flat-square&logo=google-chrome&logoColor=white" /></a> <a href="mailto:cyberaniketcompany@gmail.com"><img src="https://img.shields.io/badge/Email-cyberaniketcompany@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> </p> </div>
 
-## 🌍 My Links
+🚀 About Me
+class CyberAniket:
+name = "Aniket Chikse"
+alias = "CyberAniket"
+role = "Founder @ VoiceGuardAI | AI/ML Researcher | Cybersecurity Expert"
+location = "India 🇮🇳"
 
-| Platform | URL |
-|---|---|
-| 🚀 Startup | [voiceguardai.com](https://www.voiceguardai.com/) |
-| 📖 Docs | [docs.voiceguardai.co](https://docs.voiceguardai.co/) |
-| ✍️ Blog | [voiceguardai.com/blog](https://www.voiceguardai.com/blog) |
-| 📧 Email | [cyberaniketcompany@gmail.com](mailto:cyberaniketcompany@gmail.com) |
+startup = "https://www.voiceguardai.com" # deepfake audio detection platform
+portfolio = "https://cyberaniket.live" # projects, blogs & more
 
----
+current = ["Scaling VoiceGuardAI — real-time deepfake audio detection"]
+learning = ["Advanced LLM fine-tuning", "Adversarial ML", "Zero-day research"]
+writing = ["https://cyberaniket.live/blog"]
 
-## 📊 GitHub Stats
+fun_fact = "Skills matter, not degrees 🎯"
 
+
+🎙️ Featured Project — VoiceGuardAI
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=cyberaniket101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberaniket101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+Live at
+🌐 voiceguardai.com
+What it does
+Detects AI-generated & cloned voices in uploaded voicemails
+How
+3 proprietary models cross-validate every audio scan
+Output
+Clear verdict — Human or AI-generated — with a confidence score
+Cost
+Completely free, no usage limits
 </div>
+Under the hood — three proprietary detection engines:
+🔬 VG-Spectral → Analyses frequency & spectral patterns unique to synthetic speech
+🎵 VG-Prosody → Detects unnatural rhythm, pitch & intonation of cloned voices
+🔍 VG-Artifact → Identifies compression artefacts left by AI voice generators
 
+Upload a suspicious voicemail → All three models cross-validate in seconds → Get your verdict.
+<div align="center"> <a href="https://www.voiceguardai.com"> <img src="https://img.shields.io/badge/🛡️ Try VoiceGuardAI Free-6C3FE8?style=for-the-badge" /> </a> </div>
+
+🌍 My Links
+PlatformURL
+🚀 Startup
+voiceguardai.com
+🧑‍💻 Portfolio
+cyberaniket.live
+✍️ Blog
+cyberaniket.live/blog
+📧 Email
+cyberaniketcompany@gmail.com
+
+📊 GitHub Stats
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=cyberaniket101&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberaniket101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=cyberaniket101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cyberaniket101&theme=tokyonight&no-frame=true&column=7&margin-w=4" /> </div>
+
+🛠️ Tech Stack
+Languages
+
+AI / ML
+
+Frontend
+
+Backend & Databases
+
+Cloud & DevOps
+
+Design & Tools
+
+
+🌐 Connect With Me
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cyberaniket101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+
 </div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cyberaniket101&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<!-- Languages | AI / ML | Frontend | Backend & Databases | Cloud & DevOps | Design & Tools -->
-<!-- (keep your existing badge icons here) -->
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://www.instagram.com/voiceguardai/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/company/voiceguardai/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/voiceguardai"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://www.threads.com/@voiceguardai"><img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white" /></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C3FE8&height=80&section=footer" />
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=80&section=footer" /> </div>
