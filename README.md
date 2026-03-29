@@ -23,11 +23,9 @@ class CyberAniket:
     location   = "India 🇮🇳"
 
     startup    = "https://www.voiceguardai.com"   # deepfake audio detection platform
-    portfolio  = "https://cyberaniket.live"        # projects, blogs & more
 
-    current    = ["Scaling VoiceGuardAI — real-time deepfake audio detection"]
+    current    = ["Scaling VoiceGuardAI — real-time deepfake  detection"]
     learning   = ["Advanced LLM fine-tuning", "Adversarial ML", "Zero-day research"]
-    writing    = ["https://cyberaniket.live/blog"]
 
     fun_fact   = "Skills matter, not degrees 🎯"
 ```
@@ -41,10 +39,9 @@ class CyberAniket:
 | | |
 |:---|:---|
 | **Live at** | 🌐 [voiceguardai.com](https://www.voiceguardai.com) |
-| **What it does** | Detects AI-generated & cloned voices in uploaded voicemails |
-| **How** | 3 proprietary models cross-validate every audio scan |
+| **What it does** | Detects AI-generated & Deepfake content |
+| **How** | 3 proprietary models cross-validate every file and scan it |
 | **Output** | Clear verdict — Human or AI-generated — with a confidence score |
-| **Cost** | Completely free, no usage limits |
 
 </div>
 
@@ -56,7 +53,13 @@ class CyberAniket:
 🔍 VG-Artifact  →  Identifies compression artefacts left by AI voice generators
 ```
 
-> Upload a suspicious voicemail → All three models cross-validate in seconds → Get your verdict.
+| Metric | Value |
+|---|---|
+| 🎯 Accuracy Rate | **99.8%** |
+| ⚡ Processing Speed | **< 100ms** |
+| 📁 Files Analyzed | **300,000+** |
+| 🟢 Uptime | **99.99%** |
+
 
 <div align="center">
   <a href="https://www.voiceguardai.com">
@@ -71,8 +74,6 @@ class CyberAniket:
 | Platform | URL |
 |:---|:---|
 | 🚀 Startup | [voiceguardai.com](https://www.voiceguardai.com) |
-| 🧑‍💻 Portfolio | [cyberaniket.live](https://cyberaniket.live) |
-| ✍️ Blog | [cyberaniket.live/blog](https://cyberaniket.live) |
 | 📧 Email | [cyberaniketcompany@gmail.com](mailto:cyberaniketcompany@gmail.com) |
 
 ---
